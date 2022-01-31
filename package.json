@@ -19,7 +19,6 @@
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "babel": "^6.23.0",
-    "i": "^0.3.7",
     "jquery": "^3.6.0",
     "lodash": "^4.17.21",
     "moment": "^2.29.1",
